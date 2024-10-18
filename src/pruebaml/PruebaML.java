@@ -23,6 +23,7 @@ public class PruebaML {
         ci.add (46390835);
         
         System.out.println("Cedula ingresada " + ci.get(0));
+        System.out.println("Hola mundo ");
     }
     
 }
